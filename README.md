@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Olá, eu sou o sr fox 👋
+
+💻 Apaixonado por eletrônica, web e automação.  
+🔌 Explorando Arduino, GitHub e tecnologias open source.  
+🌐 Em breve, lançando o [write_once](https://github.com/seu-usuario/write_once) — um clone imutável do dontpad.
+
+## 🧰 Tecnologias que uso:
+- Arduino, C++
+- HTML, CSS, JavaScript
+- PHP (backend)
+- Lua (às vezes)
+
+---
+
+💬 Me chama pra colaborar ou trocar ideias.
